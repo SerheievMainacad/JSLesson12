@@ -1,0 +1,19 @@
+#block {
+	width: 100px;
+	height: 100px;
+	margin: 100px auto;
+	border: 1px black solid;
+}
+/*p {
+	width: 20px;
+	height: 20px;
+	margin: 20px auto;
+	border: 1px black solid;
+}*/
+
+#mouse {
+	width: 300px;
+	height: 300px;
+	margin: 100px auto;
+	border: 1px black solid;
+}
